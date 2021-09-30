@@ -1,0 +1,4 @@
+<launch>
+  <!-- sample node -->
+  <node name="human_intention" pkg="human_intention" type="main.py" output="screen"/>
+</launch>
